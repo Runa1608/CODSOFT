@@ -1,2 +1,2 @@
 # CODSOFT
-These are the task provided by codsoft under Datascience Internhip
+These are the task provided by codsoft under Datascience Internship
